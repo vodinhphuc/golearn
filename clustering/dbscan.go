@@ -1,8 +1,8 @@
 package clustering
 
 import (
-	"github.com/sjwhitworth/golearn/base"
-	"github.com/sjwhitworth/golearn/metrics/pairwise"
+	"github.com/vodinhphuc/golearn/base"
+	"github.com/vodinhphuc/golearn/metrics/pairwise"
 	"gonum.org/v1/gonum/mat"
 	"math/big"
 )

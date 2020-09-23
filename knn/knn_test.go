@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"fmt"
-	"github.com/sjwhitworth/golearn/base"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/vodinhphuc/golearn/base"
 )
 
 func TestKnnClassifierWithoutOptimisations(t *testing.T) {

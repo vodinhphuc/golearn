@@ -3,8 +3,8 @@ package kdtree
 import (
 	"testing"
 
-	"github.com/sjwhitworth/golearn/metrics/pairwise"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/vodinhphuc/golearn/metrics/pairwise"
 )
 
 func TestKdtree(t *testing.T) {

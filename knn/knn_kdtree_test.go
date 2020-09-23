@@ -3,8 +3,8 @@ package knn
 import (
 	"testing"
 
-	"github.com/sjwhitworth/golearn/base"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/vodinhphuc/golearn/base"
 )
 
 func TestKnnClassifierWithoutOptimisationsWithKdtree(t *testing.T) {

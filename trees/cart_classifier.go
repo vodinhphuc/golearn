@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sjwhitworth/golearn/base"
+	"github.com/vodinhphuc/golearn/base"
 )
 
 const (

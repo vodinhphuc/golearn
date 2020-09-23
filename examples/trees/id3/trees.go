@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/sjwhitworth/golearn/base"
-	"github.com/sjwhitworth/golearn/ensemble"
-	"github.com/sjwhitworth/golearn/evaluation"
-	"github.com/sjwhitworth/golearn/filters"
-	"github.com/sjwhitworth/golearn/trees"
+	"github.com/vodinhphuc/golearn/base"
+	"github.com/vodinhphuc/golearn/ensemble"
+	"github.com/vodinhphuc/golearn/evaluation"
+	"github.com/vodinhphuc/golearn/filters"
+	"github.com/vodinhphuc/golearn/trees"
 )
 
 func main() {
